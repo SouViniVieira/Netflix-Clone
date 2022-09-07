@@ -10,3 +10,5 @@ os conhecimentos adquiridos ao longo da formação em HTML e CSS.
 
 1 - Banner do Lançamento principal do mês/semana.
 2 - Menu de Navegação Adicionado
+3 - Minha Lista adicionada e alguns ajustes no layout.
+4 - Tentativa de reproduzir gambiarra feita no site do Netflix. Resolveu o problema.
