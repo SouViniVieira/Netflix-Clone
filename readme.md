@@ -4,7 +4,7 @@ Esse é um desafio da Alura do 7 Days of Code.
 A idéia desse desafio é criar um clone do Netflix usando
 os conhecimentos adquiridos ao longo da formação em HTML e CSS.
 
-[Link do Desafio] https://7daysofcode.io/matricula/html-css
+[Link do Desafio](https://7daysofcode.io/matricula/html-css)
 
 # Atualizações
 
