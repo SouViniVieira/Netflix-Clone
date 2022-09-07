@@ -14,21 +14,67 @@ body{
 .navbar {
     display: flex;
     flex-direction: row;
+    color: #FFFFFF;
+    padding: 0px 5%;
+    align-items: center;
 }
 
 .netflix-logo {
-    height: auto;
-    width: auto;
+    width: 8%;
+    cursor: pointer;
 }
 
 .menu__links {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 32px;
+    gap: 16px;
+    font-size: 0.8rem;
+}
+
+.menu__link--item {
+    list-style: none;
+    cursor: pointer;
 }
 
 .menu__navigation {
     display: flex;
+    position: absolute;
+    gap: 16px;
+    right: 4%;
     flex-direction: row;
+    align-content: flex-end;
+    align-items: center;
+    flex-grow: 1;
+    height: 100%;
+}
+
+.fa-magnifying-glass {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.fa-bell {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.profile__dropwdown {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    cursor: pointer;
+}
+
+.menu__navigation--profile {
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
 }
 
 /* Container holding background settings */
@@ -55,6 +101,7 @@ body{
     flex-direction: column;
     justify-content: center;
     width: 50%;
+    padding-left: 5%;
 }
 
 /* Poster settings */
