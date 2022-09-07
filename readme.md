@@ -9,3 +9,4 @@ os conhecimentos adquiridos ao longo da formação em HTML e CSS.
 # Atualizações
 
 1 - Banner do Lançamento principal do mês/semana.
+2 - Menu de Navegação Adicionado
